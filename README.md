@@ -7,7 +7,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/jugonzalez/Git.git
 git push -u origin master
-…or push an existing repository from the command line
 
 
 Pushing an existing repository from the command line
